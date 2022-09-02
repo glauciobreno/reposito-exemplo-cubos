@@ -1,2 +1,2 @@
 # reposito-exemplo-cubos
-Meu repositorio cubps
+Meu repositorio cubos
